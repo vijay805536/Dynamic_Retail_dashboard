@@ -80,6 +80,6 @@ Retailers and analysts often rely on business intelligence tools to gain insight
 10. 📆 **Yearly Sales Trend**
 ![image](https://github.com/user-attachments/assets/8a947bc6-f5dc-422f-9e91-d64427524602)
 
-## 🧠 Conclusion
+##🧠 Conclusion
 
 This dashboard demonstrates how powerful Excel can be for business analytics. Whether you’re exploring retail datasets, enhancing your Excel skills, or building portfolio projects, this is a practical example of data-driven storytelling.
