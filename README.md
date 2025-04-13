@@ -1,3 +1,4 @@
+
 # 📊 Dynamic Retail Dashboard – Excel Project
 
 ## 🧾 Overview
@@ -64,22 +65,40 @@ Retailers and analysts often rely on business intelligence tools to gain insight
 ## ✅ Problem Statements Solved
 
 1. 📊 **KPIs Dashboard** – Sales, profit, quantity, orders, and margin
-![image](https://github.com/user-attachments/assets/7756ff78-542a-4b08-8dd2-f4710c347d89)
-3. 📈 **Sales & Profit Analysis**
-![image](https://github.com/user-attachments/assets/2c3352bd-8a21-46b4-b0d6-33aa32ba7ed6)
-5. 📁 **Category-wise Profit Breakdown**
-![image](https://github.com/user-attachments/assets/93eb3592-49f7-4d2d-86cd-38a77e724b17)
-6. 👥 **Segment-wise Sales Share %**
-![image](https://github.com/user-attachments/assets/4e7e74ed-ee3b-4716-b93e-7729fb607ad5)
-7. 🌍 **Sales by Country**
-![image](https://github.com/user-attachments/assets/242610d3-7c1d-46aa-82c3-89bcccdc1b27)
-8. 🥇 **Top 5 Sub-Categories by Sales**
-![image](https://github.com/user-attachments/assets/a616acea-0512-42c2-8f78-c3d418f90b12)
-9. 🥉 **Bottom 5 Sub-Categories by Sales**
-![image](https://github.com/user-attachments/assets/d45309fe-2f7e-426f-b788-a16b547e8375)
-10. 📆 **Yearly Sales Trend**
-![image](https://github.com/user-attachments/assets/8a947bc6-f5dc-422f-9e91-d64427524602)
 
-##🧠 Conclusion
+![image](https://github.com/user-attachments/assets/3d7dbced-6a8a-4710-896d-e6b7ab607e44)
+
+2. 📈 **Sales & Profit Analysis**
+
+![image](https://github.com/user-attachments/assets/aa7c257c-47e8-4ce2-b672-1f36907682eb)
+
+3. 📁 **Category-wise Profit Breakdown**
+
+![image](https://github.com/user-attachments/assets/bea7691c-a35d-4229-9c26-b96dfb5fcfc2)
+
+4. 👥 **Segment-wise Sales Share %**
+
+![image](https://github.com/user-attachments/assets/e1839dd2-3291-4f81-b429-7a58ca8ffdcc)
+
+5. 🌍 **Sales by Country**
+
+![image](https://github.com/user-attachments/assets/54157a80-6bf6-4701-83a9-88ce2fb70d3b)
+
+6. 🥇 **Top 5 Sub-Categories by Sales**
+
+![image](https://github.com/user-attachments/assets/0086dfd1-6ca6-4ddc-95b3-129e135ece53)
+
+7. 🥉 **Bottom 5 Sub-Categories by Sales**
+
+![image](https://github.com/user-attachments/assets/43f829dc-e0e5-498b-aa88-7b882f92ea4c)
+
+8. 📆 **Yearly Sales Trend**
+
+![image](https://github.com/user-attachments/assets/a68695ab-8823-4898-a50e-c2298e0d3881)
+
+---
+
+## 🧠 Conclusion
 
 This dashboard demonstrates how powerful Excel can be for business analytics. Whether you’re exploring retail datasets, enhancing your Excel skills, or building portfolio projects, this is a practical example of data-driven storytelling.
+
