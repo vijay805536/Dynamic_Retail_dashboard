@@ -65,29 +65,20 @@ Retailers and analysts often rely on business intelligence tools to gain insight
 
 1. 📊 **KPIs Dashboard** – Sales, profit, quantity, orders, and margin
 ![image](https://github.com/user-attachments/assets/7756ff78-542a-4b08-8dd2-f4710c347d89)
-
-2. 📈 **Sales & Profit Analysis**
+3. 📈 **Sales & Profit Analysis**
 ![image](https://github.com/user-attachments/assets/2c3352bd-8a21-46b4-b0d6-33aa32ba7ed6)
-
-3. 📁 **Category-wise Profit Breakdown**
+5. 📁 **Category-wise Profit Breakdown**
 ![image](https://github.com/user-attachments/assets/93eb3592-49f7-4d2d-86cd-38a77e724b17)
-
-4. 👥 **Segment-wise Sales Share %**
+6. 👥 **Segment-wise Sales Share %**
 ![image](https://github.com/user-attachments/assets/4e7e74ed-ee3b-4716-b93e-7729fb607ad5)
-
-5. 🌍 **Sales by Country**
+7. 🌍 **Sales by Country**
 ![image](https://github.com/user-attachments/assets/242610d3-7c1d-46aa-82c3-89bcccdc1b27)
-
-6. 🥇 **Top 5 Sub-Categories by Sales**
+8. 🥇 **Top 5 Sub-Categories by Sales**
 ![image](https://github.com/user-attachments/assets/a616acea-0512-42c2-8f78-c3d418f90b12)
-
-7. 🥉 **Bottom 5 Sub-Categories by Sales**
+9. 🥉 **Bottom 5 Sub-Categories by Sales**
 ![image](https://github.com/user-attachments/assets/d45309fe-2f7e-426f-b788-a16b547e8375)
-
-8. 📆 **Yearly Sales Trend**
+10. 📆 **Yearly Sales Trend**
 ![image](https://github.com/user-attachments/assets/8a947bc6-f5dc-422f-9e91-d64427524602)
-
----
 
 ## 🧠 Conclusion
 
